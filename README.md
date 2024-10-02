@@ -1,0 +1,2 @@
+# Whatsapp Translator Chorme Extension
+
